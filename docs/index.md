@@ -129,6 +129,17 @@ So far we've worked with _photos_ you either took yourself, or found online. But
 
 <br/>
 
+## Repository Artifacts
+
+📋 **[View Complete Artifacts Inventory](artifacts.md)** - Comprehensive catalog of all files and resources in this repository.
+
+This repository contains:
+- Workshop documentation and exercises
+- Complete StoryMap.js project example
+- 22 images documenting a developer advocacy journey (2018-2019)
+- DevContainer configuration for development
+- MkDocs site for web publishing
+
 ## Wrap Up & Next Steps
 
 1. What did you like about this workshop?
